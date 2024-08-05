@@ -1,7 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rahul Yadav's Profile</title>
+<style>
+  @keyframes wave {
+    0%, 100% { transform: rotate(0deg); }
+    20% { transform: rotate(-10deg); }
+    40% { transform: rotate(12deg); }
+    60% { transform: rotate(-8deg); }
+    80% { transform: rotate(6deg); }
+  }
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+  @keyframes slideIn {
+    from { transform: translateX(-100%); }
+    to { transform: translateX(0); }
+  }
+  @keyframes bounce {
+    0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
+    40% { transform: translateY(-30px); }
+    60% { transform: translateY(-15px); }
+  }
+  h1 span {
+    display: inline-block;
+  }
+  h1 span:first-child {
+    animation: wave 2s infinite;
+  }
+  h1 span:last-child {
+    color: #FF5733;
+    animation: fadeIn 3s;
+  }
+  p img {
+    animation: slideIn 2s, bounce 2s infinite;
+  }
+</style>
+</head>
+<body>
+
 <h1 align="center">
   <a href="#" style="text-decoration: none;">
-    <span style="display: inline-block; animation: wave 2s infinite;">Hi 👋,</span>
-    <span style="color: #FF5733; display: inline-block; animation: fadeIn 3s;">I'm Rahul Yadav</span>
+    <span>Hi 👋,</span>
+    <span>I'm Rahul Yadav</span>
   </a>
 </h1>
 <h3 align="center">A passionate Developer from India</h3>
@@ -79,3 +123,6 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a> 
 </p>
+
+</body>
+</html>
