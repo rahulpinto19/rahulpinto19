@@ -31,7 +31,7 @@
 <a href="https://instagram.com/rahul_pinto__" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
 </a>
-<a href="https://leetcode.com/RahulYadav/" target="blank">
+<a href="https://leetcode.com/RahulYadav/](https://leetcode.com/u/rahul_pinto/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
 </a>
 </br>
