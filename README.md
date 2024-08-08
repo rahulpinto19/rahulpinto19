@@ -12,7 +12,7 @@
 <img align="right" alt="Developer" width="300" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" />
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=RahulYadav&label=Profile%20views&color=0e75b6&style=flat" alt="rahul" />
+  <img src="https://komarev.com/ghpvc/?username=rahulpinto19&label=Profile%20views&color=0e75b6&style=flat" alt="rahul" />
 </p>
 
 - 🌱 I’m currently learning **React, Node.js, C++, DSA**
@@ -50,9 +50,9 @@
 </div>
 
 </br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RahulYadav&show_icons=true&locale=en&layout=compact" alt="Rahul's top languages" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulpinto19&show_icons=true&locale=en&layout=compact" alt="Rahul's top languages" /></p>
 </br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RahulYadav&" alt="Rahul's streak stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulpinto19&" alt="Rahul's streak stats" /></p>
 
 </body>
 </html>
