@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=rahulpinto19&label=Profile%20views&color=0e75b6&style=flat" alt="rahul" />
 </p>
 
-- 🌱 I’m currently learning **React, Node.js, C++, DSA**
+- 🌱 I’m currently Working in **Google** as a software developer
 
 - 🕸 Web development excites me. Isn't it amazing how **full-stack applications** are built.
 
