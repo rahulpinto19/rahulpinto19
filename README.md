@@ -36,23 +36,14 @@
 </a>
 </br>
 
-<h3 align="left">Languages and Tools:</h3>
-<div>
-  <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/cpp.svg" alt="cpp" height="30" width="40" /> 
-  <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/python.svg" alt="python" height="30" width="40" /> 
-  <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/git.svg" alt="git" height="30" width="40" /> 
-  <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/mysql.svg" alt="mysql" height="30" width="40" /> 
-  <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/nodejs.svg" alt="nodejs" height="30" width="40" /> 
-  <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/express.svg" alt="express" height="30" width="40" /> 
-  <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/AIML/tensorflow.svg" alt="tensorflow" height="30" width="40" /> 
-  <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/react.svg" alt="react" height="30" width="40" /> 
-  <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/html.svg" alt="html" height="30" width="40" />
-</div>
-
 </br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulpinto19&show_icons=true&locale=en&layout=compact" alt="Rahul's top languages" /></p>
 </br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulpinto19&" alt="Rahul's streak stats" /></p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahulpinto19/rahulpinto19/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahulpinto19/rahulpinto19/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rahulpinto19/rahulpinto19/output/github-snake.svg" />
+</picture>
 </body>
 </html>
