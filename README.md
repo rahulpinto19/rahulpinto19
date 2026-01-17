@@ -36,10 +36,10 @@
 </a>
 </br>
 
-</br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulpinto19&show_icons=true&locale=en&layout=compact" alt="Rahul's top languages" /></p>
-</br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulpinto19&" alt="Rahul's streak stats" /></p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulpinto19&" alt="Rahul's streak stats" />
+</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahulpinto19/rahulpinto19/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahulpinto19/rahulpinto19/output/github-snake.svg" />
